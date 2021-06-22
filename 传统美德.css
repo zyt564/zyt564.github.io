@@ -1,0 +1,41 @@
+body{
+margin:0px;
+text-align:center;
+background-image:url(images/3.jpg);
+background-size:1600px 900px;
+background-repeat:no-repeat;
+}
+#container{
+margin:0 auto;
+width:1300px;
+height:700px;
+}
+navi{
+font-size:40px;
+width:1200px;
+margin:30px;
+background:#008080;
+background-position:center;
+}
+navi table{
+border:0;
+border-collapse:collapse;
+margin:30px;
+width:1200px;
+}
+navi table a:link{
+color:white;
+text-decoration:none;
+}
+#main{
+padding:10px;
+text-align:center;
+width:1000px;
+height:600px;
+float:right;
+}
+#main p{
+font:20px ËÎÌו;
+text-indent:2em;
+}
+

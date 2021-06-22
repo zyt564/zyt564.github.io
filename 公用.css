@@ -1,0 +1,49 @@
+#navi{
+font:16px"Î¢ÈíÑÅºÚ","ºÚÌå","ËÎÌå";
+background-color:#dcdcdc;
+padding:15px 0px 6px 0px;
+border-bottom:#F6C 5px solid;
+}
+#navi a{
+text-decoration:none;
+padding:0 60px;
+}
+#navi a:link,a:visited{
+color:#946c59;
+}
+#navi a:hover{
+color:#F6C;
+}
+#foot{
+width:1900px;
+height:20px;
+margin:0 auto;
+padding:20px 0;
+color:#e2a98f;
+backgrounf:#FFF;
+}
+#foot table{
+width:1900px;
+height:150px;
+margin:0 auto;
+padding:10px 0px;
+border:0;
+border-collapse:collapse;
+font-size:19px;
+}
+#foot table td{
+width:155px;
+border-left:#c67c59 thin dashed;
+border-right:#c67c59 thin dashed;
+}
+.first_line{
+color:#946c59;
+font-size:19px;
+font-weight:bolder;
+}
+#foot>p{
+color:#a6958d;
+font-size:19px;
+padding:20px 0px;
+line-height:1.5;
+}
